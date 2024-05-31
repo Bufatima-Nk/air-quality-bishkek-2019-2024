@@ -17,7 +17,7 @@ This project performs a time series analysis of PM2.5 air quality data in Bishke
 Air quality is a significant environmental health concern, especially in urban areas like Bishkek. This project aims to analyze the historical PM2.5 data to identify trends, seasonal patterns, and predict future air quality levels using time series models.
 
 ## Data
-The data used in this project includes PM2.5 measurements from 2019 to 2024 in Bishkek. The datasets are sourced from Kaggle's air quality datasets repository, specifically from [this dataset]([https://www.kaggle.com/yourusername/air-quality-bishkek](https://www.kaggle.com/datasets/pavelisayenko/airnow-bishkek)).
+The data used in this project includes PM2.5 measurements from 2019 to 2024 in Bishkek. The datasets are sourced from Kaggle's air quality datasets repository, specifically from [this dataset](https://www.kaggle.com/datasets/pavelisayenko/airnow-bishkek).
 
 ## Exploratory Data Analysis
 The exploratory data analysis (EDA) phase includes:
